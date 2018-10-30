@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn to design and code react apps</h1>
+        <h1>Learn to <br />design and code react apps</h1>
         <p>
           Complete the courses about the best tools and design systems.
           Prototype and build apps with React and Swift.
